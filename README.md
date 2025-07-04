@@ -25,5 +25,5 @@ Netflix movie analysis project using Python, pandas and matplotlib. It includes 
 
 👩‍💻 Author
 Vaibhavi Srivastava
-💻
-📫 Actively exploring data science, analytics, and Python-based tools.
+💻 I'm a BCA student with a growing passion for data science.
+📫 Actively exploring data science, analytics and Python-based tools.
